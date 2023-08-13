@@ -1,0 +1,125 @@
+[
+    {
+        "storeId": 1,
+        "memberships": [
+            {
+                "name": "1 Month Membership NFT",
+                "validFor": "1 Month",
+                "cost": 0.00001,
+                "price": "0.0001 ETH",
+                "description": "1 Month Access",
+                "image": "/images/apple-touch-icon.png",
+                "invalidAfter": 1690095132
+            },
+            {
+                "name": "6 Months Membership NFT",
+                "validFor": "6 Months",
+                "cost": 0.00003,
+                "price": "0.0003 ETH",
+                "description": "6 Months Access",
+                "image": "/images/apple-touch-icon.png",
+                "invalidAfter": 1703409965
+            },
+            {
+                "name": "1 Year Membership NFT",
+                "validFor": "1 Year",
+                "cost": 0.00005,
+                "price": "0.0005 ETH",
+                "description": "1 Year Access",
+                "image": "/images/apple-touch-icon.png",
+                "invalidAfter": 1719082288
+            },
+            {
+                "name": "Lifetime Membership NFT",
+                "validFor": "lifetime",
+                "cost": 0.0001,
+                "price": "0.0001 ETH",
+                "description": "Lifetime Access",
+                "image": "/images/apple-touch-icon.png",
+                "invalidAfter": 1924334765
+            }
+        ]
+    },
+    {
+        "storeId": 2,
+        "memberships": [
+            {
+                "name": "1 Month Membership NFT",
+                "validFor": "1 Month",
+                "cost": 0.00001,
+                "price": "0.0001 ETH",
+                "description": "1 Month Access",
+                "image": "/images/apple-touch-icon.png",
+                "invalidAfter": 1690095132
+            },
+            {
+                "name": "6 Months Membership NFT",
+                "validFor": "6 Months",
+                "cost": 0.00003,
+                "price": "0.0003 ETH",
+                "description": "6 Months Access",
+                "image": "/images/apple-touch-icon.png",
+                "invalidAfter": 1703409965
+            },
+            {
+                "name": "1 Year Membership NFT",
+                "validFor": "1 Year",
+                "cost": 0.00005,
+                "price": "0.0005 ETH",
+                "description": "1 Year Access",
+                "image": "/images/apple-touch-icon.png",
+                "invalidAfter": 1719082288
+            },
+            {
+                "name": "Lifetime Membership NFT",
+                "validFor": "lifetime",
+                "cost": 0.0001,
+                "price": "0.0001 ETH",
+                "description": "Lifetime Access",
+                "image": "/images/apple-touch-icon.png",
+                "invalidAfter": 1924334765
+            }
+        ]
+    },
+    {
+        "storeId": 3,
+        "memberships": [
+            {
+                "name": "1 Month Membership NFT",
+                "validFor": "1 Month",
+                "cost": 0.0001,
+                "price": "0.0001 ETH",
+                "description": "1 Month Access",
+                "image": "/images/apple-touch-icon.png",
+                "invalidAfter": 1690095132
+            },
+            {
+                "name": "6 Months Membership NFT",
+                "validFor": "6 Months",
+                "cost": 0.0003,
+                "price": "0.0003 ETH",
+                "description": "6 Months Access",
+                "image": "/images/apple-touch-icon.png",
+                "invalidAfter": 1703409965
+            },
+            {
+                "name": "1 Year Membership NFT",
+                "validFor": "1 Year",
+                "cost": 0.0005,
+                "price": "0.0005 ETH",
+                "description": "1 Year Access",
+                "image": "/images/apple-touch-icon.png",
+                "invalidAfter": 1719082288
+            },
+            {
+                "name": "Lifetime Membership NFT",
+                "validFor": "lifetime",
+                "cost": 0.001,
+                "price": "0.0001 ETH",
+                "description": "Lifetime Access",
+                "image": "/images/apple-touch-icon.png",
+                "invalidAfter": 1924334765
+            }
+        ]
+    }
+]
